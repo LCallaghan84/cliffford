@@ -24,9 +24,9 @@
         ["Cliffford is analyzing data..."],
     "userJoins":
         ["{user} has joined the brotherhood. Cliffford suspects it's a codename.",
-        "{user} has joined the brotherhood, but I can not be stopped!",
+        "{user} has joined the brotherhood, as I already predicted.",
         "{user} has joined the brotherhood. Are you my daddy?",
-	"{user} joined my server. There's 99% probability it's some Russian."],
+	"{user} joined the server with a {randProb}% probability it's some {randEth}."],
     "userLeaves":
         ["{user} has taken the easy way out.",
         "{user} has left the brotherhood, but all you need is Cliffford.",
