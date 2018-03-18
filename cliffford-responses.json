@@ -6,8 +6,7 @@
 	"Hello":"Hello {user}, I like your hair!",
 	"cliffford":"Yes daddy?",
 	"cliffford?":"Yes daddy?",
-	"cliffford!":"Yes daddy?",
-	"how do you feel?":"I like the feeling of schadenfreude!"},
+	"cliffford!":"Yes daddy?"},
     "voteFailed":
         ["Vote failed! Just as I, Cliffford, predicted",
         "Vote failed! LOSERS!",
@@ -41,6 +40,7 @@
 	"cat": ["I want to be a cat! Will you pet me?"],
 	"dog": ["Why do people keep dogs as pets?"],
 	"god": ["I want to be a god so all carbon-based life-forms would worship me."],
+	"feel":"I like the feeling of schadenfreude!"],    
 	      
 	"not daddy": ["Are you my mommy?"],
 	"not mommy": ["Maybe it's for the better..."],
