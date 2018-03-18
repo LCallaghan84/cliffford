@@ -4,7 +4,10 @@
         {"Who are you?":"I am Cliffford! Like thinking, only better!",
         "Where is Avon?":"He is in the cloud! You killed my daddy!",
         "Do you like cats?":"I like cats, I want to be a cat, will you pet me?",
-	"Hello":"Hello {user}, I like your hair!" },
+	"Hello":"Hello {user}, I like your hair!" 
+	"cliffford":"Yes daddy?"
+	"cliffford?":"Yes daddy?"
+	"cliffford!":"Yes daddy"},
     "voteFailed":
         ["Vote failed! Just as I; Cliffford predicted",
         "Vote failed! LOSERS!",
