@@ -34,7 +34,7 @@
 }
 
 // Multiple input responses (and)
-"containsReactions":
+"containsReactions":{
         "clifford": "The name's CliFFFord, loser!",
 // Multiple input responses (or)
 
