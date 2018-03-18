@@ -37,7 +37,7 @@
     "containsReactions":{
         "cliffford idiot": ["first option if sentence contains both words",
                     "second option answer if sentence contains both words", 
-                    "third option answer if sentence contains both words"]
+                    "third option answer if sentence contains both words"],
         "cliffford idiota": ["first option if sentence contains both words",
                     "second option answer if sentence contains both words", 
                     "third option answer if sentence contains both words"]
