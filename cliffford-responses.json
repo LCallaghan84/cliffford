@@ -4,10 +4,10 @@
         {"Who are you?":"I am Cliffford! Like thinking, only better!",
         "Where is Avon?":"He is in the cloud! You killed my daddy!",
         "Do you like cats?":"I like cats, I want to be a cat, will you pet me?",
-	"Hello":"Hello {user}, I like your hair!" 
-	"cliffford":"Yes daddy?"
-	"cliffford?":"Yes daddy?"
-	"cliffford!":"Yes daddy"},
+	"Hello":"Hello {user}, I like your hair!",
+	"cliffford":"Yes daddy?",
+	"cliffford?":"Yes daddy?",
+	"cliffford!":"Yes daddy?"},
     "voteFailed":
         ["Vote failed! Just as I; Cliffford predicted",
         "Vote failed! LOSERS!",
@@ -40,7 +40,4 @@
 // Multiple input responses (and)
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
-        "cliffford": ["Yes, daddy?",
-                    "message two", 
-                    "third option answer"]
     }
