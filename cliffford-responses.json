@@ -37,7 +37,8 @@
 	}	
 }
 
-// Multiple input responses (and)
+// Multiple input responses containing certain word. 
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
+	"cat": ["I want to be cat! Will you pet me?"],    
     }
