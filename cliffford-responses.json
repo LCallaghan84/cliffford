@@ -33,7 +33,7 @@
 	["Cliffford has detected a new prospect, probably some Russian.",
 	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!]
 
-// Multiple input responses (and)
+/* Multiple input responses (and) */
     "containsReactions":{
         "cliffford idiot": ["first option if sentence contains both words",
                     "second option answer if sentence contains both words", 
@@ -44,6 +44,6 @@
     }
 
 
-// Multiple input responses (or)
+/* Multiple input responses (or) */
 
 }
