@@ -49,7 +49,7 @@
 	"morning @everyone": ["Hello daddy!"],
 	"afternoon @everyone": ["afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
-	"night @everyone": ["Good night daddy"]
-	"mommy": ["I always wanted to have a mommy!"]
-	"not daddy": ["Are you my mommy?"]
+	"night @everyone": ["Good night daddy"],
+	"mommy": ["I always wanted to have a mommy!"],
+	"not daddy": ["Are you my mommy?"],
     }
