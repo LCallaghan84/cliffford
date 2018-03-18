@@ -33,8 +33,8 @@
 	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!],
 
 // Multiple input responses (and)
-containsReactions":{
-        ["clifford": "The name's CliFFFord, loser!",]
+"containsReactions":{
+        "clifford": "The name's CliFFFord, loser!",]
 }
 
 // Multiple input responses (or)
