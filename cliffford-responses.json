@@ -42,8 +42,8 @@
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
 	"cat": ["I want to be cat! Will you pet me?"],
-	"hi": ["Hello daddy!"],
-	"hey": ["Hello daddy!"],
-        "hello": ["Hello daddy!"],
-	"sup": ["Hello daddy!"],
+	"hi @everyone": ["Hello daddy!"],
+	"hey @everyone": ["Hello daddy!"],
+        "hello @everyone": ["Hello daddy!"],
+	"sup @everyone": ["Hello daddy!"],
     }
