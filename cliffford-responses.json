@@ -40,5 +40,9 @@
 // Multiple input responses containing certain word. 
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
-	"cat": ["I want to be cat! Will you pet me?"],    
+	"cat": ["I want to be cat! Will you pet me?"],
+	"hi": ["Hello daddy!"],
+	"hey": ["Hello daddy!"],
+        "hello": ["Hello daddy!"],
+	"sup": ["Hello daddy!"],
     }
