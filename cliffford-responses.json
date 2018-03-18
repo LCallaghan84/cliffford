@@ -30,12 +30,13 @@
         "{user} has left, it was just another typewriting monkey like Shakespeare."],
     "prospectJoined":
 	["Cliffford has detected a new prospect, probably some Russian.",
-	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!],
+	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!"],
+	
+	// Multiple input responses (and)
+	"containsReactions":{
+        ["clifford": "The name's CliFFFord, loser!"],
+		["cliffford": "Yes daddy?"]
 }
 
-// Multiple input responses (and)
-"containsReactions":{
-        "clifford": "The name's CliFFFord, loser!",
-// Multiple input responses (or)
 
 }
