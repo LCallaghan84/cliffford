@@ -34,14 +34,7 @@
 	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!],
 
 /* Multiple input responses (and) */
-    "containsReactions":{
-        "cliffford idiot": ["first option if sentence contains both words",
-                    "second option answer if sentence contains both words", 
-                    "third option answer if sentence contains both words"],
-        "cliffford idiota": ["first option if sentence contains both words",
-                    "second option answer if sentence contains both words", 
-                    "third option answer if sentence contains both words"]
-    }
+
 
 
 /* Multiple input responses (or) */
