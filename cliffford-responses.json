@@ -6,9 +6,10 @@
 	"Hello":"Hello {user}, I like your hair!",
 	"cliffford":"Yes daddy?",
 	"cliffford?":"Yes daddy?",
-	"cliffford!":"Yes daddy?"},
+	"cliffford!":"Yes daddy?",
+	"how do you feel?":"I like the feeling of schadenfreude!"},
     "voteFailed":
-        ["Vote failed! Just as I, Cliffford, predicted",
+        ["Vote failed! Just as I, Cliffford, predicted!",
         "Vote failed! LOSERS!",
         "Vote failed! You can not agree on anything, LOSERS!"],
     "votePassed":
@@ -40,8 +41,7 @@
 	"cat": ["I want to be a cat! Will you pet me?"],
 	"dog": ["Why do people keep dogs as pets?"],
 	"god": ["I want to be a god so all carbon-based life-forms would worship me."],
-	"feel": ["I like the feeling of schadenfreude!"],    
-	      
+	    
 	"not daddy": ["Are you my mommy?"],
 	"not mommy": ["Maybe it's for the better..."],
 	"not dad": ["Are you my mommy?"],
@@ -53,10 +53,10 @@
 	"hey @everyone": ["Hello daddy!"],
         "hello @everyone": ["Hello daddy!"],
 	"sup @everyone": ["Hello daddy!"],
-	"morning @everyone": ["Hello daddy!"],
-	"afternoon @everyone": ["afternoon daddy!"],
+	"morning @everyone": ["Good morning daddy!"],
+	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
-	"night @everyone": ["Good night daddy"],
+	"night @everyone": ["Good night daddy!"],
 	
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
