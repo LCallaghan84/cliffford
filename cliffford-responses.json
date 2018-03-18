@@ -36,10 +36,8 @@
 
 // Multiple input responses (and)
     "containsReactions":{
-        "cliffford idiot": ["first option if sentence contains both words",
-                    "second option answer if sentence contains both words", 
-                    "third option answer if sentence contains both words"],
-        "cliffford idiota": ["first option if sentence contains both words",
-                    "second option answer if sentence contains both words", 
-                    "third option answer if sentence contains both words"]
+        "clifford": ["the name's CliFFFord, loser!"],
+        "cliffford": ["Yes, daddy?",
+                    "message two", 
+                    "third option answer"]
     }
