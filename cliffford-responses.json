@@ -24,7 +24,7 @@
         ["Cliffford is analyzing data..."],
     "userJoins":
         ["{user} has joined the brotherhood. Cliffford suspects it's a codename.",
-        "{user} has joined the brotherhood, as I already predicted.",
+        "{user} has joined the brotherhood as I already predicted.",
         "{user} has joined the brotherhood. Are you my daddy?",
 	"{user} joined the server with a {randProb}% probability it's some {randEth}."],
     "userLeaves":
@@ -32,8 +32,9 @@
         "{user} has left the brotherhood, but all you need is Cliffford.",
         "{user} has left, it was just another typewriting monkey like Shakespeare."],
     "prospectJoined":
-	["Cliffford has detected a new prospect, probably some Russian.",
-	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!"],
+	["Cliffford has detected a new prospect."],
+    "memberKicked":
+	["{user} has been obliterated by the orbital cannon."],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
 	"cat": ["I want to be a cat! Will you pet me?"],
