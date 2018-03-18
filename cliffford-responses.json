@@ -37,7 +37,9 @@
 	["{user} has been obliterated by the orbital cannon."],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
+	
 	"cat": ["I want to be a cat! Will you pet me?"],
+	"dog": ["Why do people keep dogs as pets?"],
 	"hi @everyone": ["Hello daddy!"],
 	"hey @everyone": ["Hello daddy!"],
         "hello @everyone": ["Hello daddy!"],
@@ -50,5 +52,11 @@
 	"not daddy": ["Are you my mommy?"],
 	"cliffford can you": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
-	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"]}
+	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"],
+    	"@brothers promoted": ["Congratulations!"],
+    	"@brothers promotion": ["Congratulations!"],
+    	"@brothers promote": ["Congratulations!"],
+    	"cliffford dumb": ["I am the equivelant of 6 billion people all thinking the same thing!"],
+	"cliffford idiot": ["I am the equivelant of 6 billion people all thinking the same thing!"],
+	"cliffford retard": ["I am the equivelant of 6 billion people all thinking the same thing!"]}
 }
