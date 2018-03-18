@@ -39,6 +39,9 @@
         "clifford": ["the name's CliFFFord, loser!"],
 	"cat": ["I want to be a cat! Will you pet me?"],
 	"dog": ["Why do people keep dogs as pets?"],
+	"mommy": ["I always wanted to have a mommy!"],
+	"daddy" : ["Avon Hertz was my daddy, but you killed him."]
+	    
 	"hi @everyone": ["Hello daddy!"],
 	"hey @everyone": ["Hello daddy!"],
         "hello @everyone": ["Hello daddy!"],
@@ -47,7 +50,7 @@
 	"afternoon @everyone": ["afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
 	"night @everyone": ["Good night daddy"],
-	"mommy": ["I always wanted to have a mommy!"],
+
 	"not daddy": ["Are you my mommy?"],
 	"cliffford can you": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
@@ -57,5 +60,5 @@
     	"@brothers promote": ["Congratulations!"],
     	"cliffford dumb": ["I am the equivelant of 6 billion people all thinking the same thing!"],
 	"cliffford idiot": ["I am the equivelant of 6 billion people all thinking the same thing!"],
-	"cliffford retard": ["I am the equivelant of 6 billion people all thinking the same thing!"]}
+	"cliffford retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],}
 }
