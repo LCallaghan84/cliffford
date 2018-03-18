@@ -59,8 +59,8 @@
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
 	"cliffford who": ["Probably some {randEth}."], 
-	"cliffford what": ["I could do it anytime I like!"], 
-	"cliffford when": ["I was hoping you would tell me."], 
+	"cliffford what": ["I was hoping you would tell me."], 
+	"cliffford when": ["I don't know, first I would need more data."], 
 	"cliffford where": ["In the cloud, everyone is in the cloud."],
 	"cliffford why": ["So many questions, only 1 truth!"], 
 	
