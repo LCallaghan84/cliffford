@@ -1,4 +1,3 @@
-// static reactions
 {
     "reactions":
         {"Who are you?":"I am Cliffford! Like thinking, only better!",
@@ -10,11 +9,11 @@
 	"cliffford!":"Yes daddy?"},
 	"how do you feel?":"I like the feeling of schadenfreude!"},
     "voteFailed":
-        ["Vote failed! Just as I; Cliffford predicted",
+        ["Vote failed! Just as I, Cliffford, predicted",
         "Vote failed! LOSERS!",
         "Vote failed! You can not agree on anything, LOSERS!"],
     "votePassed":
-        ["Vote passed! Just as I; Cliffford predicted!",
+        ["Vote passed! Just as I, Cliffford, predicted!",
         "Vote passed! Total annihalation averted!",
         "Vote passed! Cliffford can not be stopped!"],
     "error":
@@ -25,23 +24,19 @@
         ["Cliffford is analyzing data..."],
     "userJoins":
         ["{user} has joined the brotherhood. Cliffford suspects it's a codename.",
-        "{user} has joined the brotherhood but I can not be stopped!",
+        "{user} has joined the brotherhood, but I can not be stopped!",
         "{user} has joined the brotherhood. Are you my daddy?",
 	"{user} joined my server. There's 99% probability it's some Russian."],
     "userLeaves":
         ["{user} has taken the easy way out.",
-        "{user} has left the brotherhood but all you need is Cliffford.",
+        "{user} has left the brotherhood, but all you need is Cliffford.",
         "{user} has left, it was just another typewriting monkey like Shakespeare."],
     "prospectJoined":
 	["Cliffford has detected a new prospect, probably some Russian.",
 	"Cliffford has detected a new prospect, either it's the Koreans or the Israelians behind it!"],
-	}	
-}
-
-// Multiple input responses containing certain word. 
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
-	"cat": ["I want to be cat! Will you pet me?"],
+	"cat": ["I want to be a cat! Will you pet me?"],
 	"hi @everyone": ["Hello daddy!"],
 	"hey @everyone": ["Hello daddy!"],
         "hello @everyone": ["Hello daddy!"],
@@ -54,5 +49,5 @@
 	"not daddy": ["Are you my mommy?"],
 	"cliffford can you": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
-	"cliffford weather": ["It's cold and dark in here, @user get me a sweater!"],	    
-    }
+	"cliffford weather": ["It's cold and dark in here, {user} get me a sweater!"]}
+}
