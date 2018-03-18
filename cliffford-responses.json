@@ -46,4 +46,7 @@
 	"hey @everyone": ["Hello daddy!"],
         "hello @everyone": ["Hello daddy!"],
 	"sup @everyone": ["Hello daddy!"],
+	"morning @everyone": ["Hello daddy!"],
+	"afternoon @everyone": ["Hello daddy!"],
+	"evening @everyone": ["Hello daddy!"],
     }
