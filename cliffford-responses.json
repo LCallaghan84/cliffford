@@ -26,7 +26,7 @@
         ["{user} has joined the brotherhood. Cliffford suspects it's a codename.",
         "{user} has joined the brotherhood as I already predicted.",
         "{user} has joined the brotherhood. Are you my daddy?",
-	"{user} joined the server with a {randProb}% probability it's some {randEth}."],
+	"{user} joined the server with a {randProb}% probability it's some \b{randEth}\b."],
     "userLeaves":
         ["{user} has taken the easy way out.",
         "{user} has left the brotherhood, but all you need is Cliffford.",
