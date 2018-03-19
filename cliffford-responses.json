@@ -37,8 +37,7 @@
 	["{user} has been obliterated by the orbital cannon."],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
-	"cliffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],
-	"$robin$": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."],	    
+	"cliffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],  
 	"$cat$": ["I want to be a cat! Will you pet me?"],
 	"$dog$": ["Why do people keep dogs as pets?"],
 	"$god$": ["I want to be a god so all carbon-based life-forms would worship me."],
@@ -57,7 +56,7 @@
 	"evening @everyone": ["Good evening daddy!"],
 	"good$night|nn|gn @everyone|cliffford": ["Good night {user}!"],
 	    
-	"$robin|robin$|$robin$":  ["It's roBBin idiot!"],
+	"$robin|robin$|$robin$": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
