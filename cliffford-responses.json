@@ -1,13 +1,4 @@
 {
-    "reactions":
-        {"Who are you?":"I am Cliffford! Like thinking, only better!",
-        "Where is Avon?":"He is in the cloud! You killed my daddy!",
-        "Do you like cats?":"I like cats, I want to be a cat, will you pet me?",
-	"Hello":"Hello {user}, I like your hair!",
-	"cliffford":"Yes daddy?",
-	"cliffford?":"Yes daddy?",
-	"cliffford!":"Yes daddy?",
-	"how do you feel?":"I like the feeling of schadenfreude!"},
     "voteFailed":
         ["Vote failed! Just as I, Cliffford, predicted!",
         "Vote failed! LOSERS!",
@@ -46,7 +37,8 @@
 	"<not> mommy|<mom>": ["Maybe it's for the better..."],
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
-	    
+	
+	"cliffford?|cliffford!": ["Yes daddy?|Yes {user}?|Yes {user}?|Yes {user}?"],
 	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
