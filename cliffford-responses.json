@@ -44,8 +44,8 @@
 	    
 	"<not> daddy|<dad>": ["Are you my mommy?"],
 	"<not> mommy|<mom>": ["Maybe it's for the better..."],
-	"mommy": ["I always wanted to have a mommy!"],
-	"daddy" : ["Avon Hertz was my daddy, but you killed him."],
+	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
+	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 	    
 	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
