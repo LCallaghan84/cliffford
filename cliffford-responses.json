@@ -57,6 +57,7 @@
 	"<robin>": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	"<denis>": ["It's DeNNis, you dipshit! Cliffford has oblitered {user}."],     
 	
+	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"],    
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
 	"cliffford who": ["Probably some {randEth}."], 
@@ -67,7 +68,7 @@
 	"cliffford how you": ["I'm doing fine {user}, thanks for asking."],
 	"cliffford how": ["I don't know, but I can always find out."],
 	
-	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"],
+
     	"cliffford dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
 	"cliffford stfu|<shut>": ["Ok daddy!"]}
 }
