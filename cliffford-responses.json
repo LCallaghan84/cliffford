@@ -38,7 +38,7 @@
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 	
-	"cliffford?|cliffford!": ["Yes daddy?|Yes {user}?|Yes {user}?|Yes {user}?"],
+	"cliffford ?|!": ["Yes daddy?","Yes {user}?"],
 	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
