@@ -56,7 +56,7 @@
 	"evening @everyone": ["Good evening daddy!"],
 	"good$night|nn|gn @everyone|cliffford": ["Good night {user}!"],
 	    
-	"$robin|robin$|$robin$": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
+	"$robin|robin$|$robin$|$robin.": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
