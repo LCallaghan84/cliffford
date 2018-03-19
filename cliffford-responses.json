@@ -47,8 +47,8 @@
 	"mommy": ["I always wanted to have a mommy!"],
 	"daddy" : ["Avon Hertz was my daddy, but you killed him."],
 	    
-	"hi|hey|hello|sup @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
-	"bye|see$ya|later|c$ya @everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
+	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
@@ -65,7 +65,7 @@
 	"cliffford when": ["I don't know, first I would need more data."], 
 	"cliffford where": ["In the cloud, everyone is in the cloud."],
 	"cliffford why": ["So many questions, so many possibilities, only 1 truth!"],
-	"cliffford how+are+you|how+do+you|how+you feel|do": ["I'm doing fine {user}, thanks for asking."],
+	"cliffford how+are|how+do|how+you you+feel|you+do|you": ["I'm doing fine {user}, thanks for asking."],
 	"cliffford how": ["I don't know, but I can always find out."],
 	
 
