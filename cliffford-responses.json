@@ -24,7 +24,7 @@
         "{user} has left, it was just another typewriting monkey like Shakespeare."],
     "prospectJoined":
 	["Cliffford has detected a new prospect."],
-    "memberBanned":
+    "userBanned":
 	["{user} has been obliterated by the orbital cannon."],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
