@@ -55,7 +55,9 @@
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
-	"night|good$night|nn|gn @everyone|cliffford": ["Good night {user}!"],
+	"good$night|nn|gn @everyone|cliffford": ["Good night {user}!"],
+	    
+	"$robin|robin$|$robin$":
 	
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
