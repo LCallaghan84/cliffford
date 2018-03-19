@@ -33,8 +33,8 @@
 	"<dog>": ["Why do people keep dogs as pets?"],
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
 	    
-	"father|<dad> nope|<not>|<no>": ["Are you my mommy?"],
-	"mother|<mom> nope|<not>|<no>": ["Maybe it's for the better..."],
+	"father|<dad>|<daddy> nope|<not>|<no>": ["Are you my mommy?"],
+	"mother|<mom>|<mommy> nope|<not>|<no>": ["Maybe it's for the better..."],
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 	
