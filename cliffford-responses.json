@@ -39,7 +39,7 @@
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 	
 	"cliffford?|cliffford!": ["Yes daddy?|Yes {user}?|Yes {user}?|Yes {user}?"],
-	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
