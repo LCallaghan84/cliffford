@@ -38,10 +38,10 @@
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
 	"cliffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],
-	"\brobin\b": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."],	    
-	"\bcat\b": ["I want to be a cat! Will you pet me?"],
-	"\bdog\b": ["Why do people keep dogs as pets?"],
-	"\bgod\b": ["I want to be a god so all carbon-based life-forms would worship me."],
+	"\b robin\b": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."],	    
+	"\b cat\b": ["I want to be a cat! Will you pet me?"],
+	"\b dog \b": ["Why do people keep dogs as pets?"],
+	"\b god \b": ["I want to be a god so all carbon-based life-forms would worship me."],
 	    
 	"not daddy": ["Are you my mommy?"],
 	"not mommy": ["Maybe it's for the better..."],
