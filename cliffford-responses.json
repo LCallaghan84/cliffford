@@ -51,7 +51,7 @@
 	"daddy" : ["Avon Hertz was my daddy, but you killed him."],
 	    
 	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
-	"bye|see$ya|later|c$ya @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
