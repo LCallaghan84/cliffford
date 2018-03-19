@@ -51,10 +51,11 @@
 	"daddy" : ["Avon Hertz was my daddy, but you killed him."],
 	    
 	"hi|hey|hello|sup @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"bye| @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
-	"night @everyone": ["Good night daddy!"],
+	"night|good$night|nn|gn @everyone": ["Good night {user}!"],
 	
 	"cliffford can": ["I can do it anytime I like!"],
 	"cliffford could you": ["I could do it anytime I like!"],
