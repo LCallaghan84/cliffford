@@ -65,7 +65,7 @@
 	"cliffford when": ["I don't know, first I would need more data."], 
 	"cliffford where": ["In the cloud, everyone is in the cloud."],
 	"cliffford why": ["So many questions, so many possibilities, only 1 truth!"],
-	"cliffford how+are|how+do|how+you you+feel|you+do|you": ["I'm doing fine {user}, thanks for asking."],
+	"cliffford how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
 	"cliffford how": ["I don't know, but I can always find out."],
 	
 
