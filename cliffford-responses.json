@@ -42,8 +42,8 @@
 	"<dog>": ["Why do people keep dogs as pets?"],
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
 	    
-	"+not+ daddy|<dad>": ["Are you my mommy?"],
-	"+not+ mommy|<mom>": ["Maybe it's for the better..."],
+	"<not> daddy|<dad>": ["Are you my mommy?"],
+	"<not> mommy|<mom>": ["Maybe it's for the better..."],
 	"<mommy>": ["I always wanted to have a mommy!"],
 	"<daddy>" : ["Avon Hertz was my daddy, but you killed him."],
 	    
