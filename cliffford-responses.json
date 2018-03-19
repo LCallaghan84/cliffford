@@ -70,9 +70,7 @@
 	"cliffford how": ["I don't know, but I can always find out."],
 	
 	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"],
-    	"cliffford dumb": ["I am the equivelant of 6 billion people all thinking the same thing!"],
-	"cliffford idiot": ["I am the equivelant of 6 billion people all thinking the same thing!"],
-	"cliffford retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
+    	"cliffford dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
 	"cliffford stfu": ["Ok daddy!"],
 	"cliffford shut up": ["Ok daddy!"]}
 }
