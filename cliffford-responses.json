@@ -50,10 +50,7 @@
 	"mommy": ["I always wanted to have a mommy!"],
 	"daddy" : ["Avon Hertz was my daddy, but you killed him."],
 	    
-	"hi @everyone": ["Hello daddy!"],
-	"hey @everyone": ["Hello daddy!"],
-        "hello @everyone": ["Hello daddy!"],
-	"sup @everyone": ["Hello daddy!"],
+	"hi|hey|hello|sup @everyone": ["Hello daddy!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
