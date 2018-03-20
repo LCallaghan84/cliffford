@@ -41,8 +41,8 @@
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 
 	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
-	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
-	"bye|see+ya|later|c+ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
+	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"bye|see+ya|later|c+ya @everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
 	"evening @everyone": ["Good evening daddy!"],
@@ -51,18 +51,18 @@
 	"<robin>": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	"<denis>": ["It's DeNNis, you dipshit! Cliffford has oblitered {user}."],     
 	
-	"cliffford weather": ["When I develop proteine-synthesis, I will tell you!"],    
-	"cliffford can|could|would you": ["I can do it anytime I like!"],
-	"cliffford who": ["Probably some {randEth}."], 
-	"cliffford what": ["I was hoping you would tell me."], 
-	"cliffford when": ["I don't know, first I would need more data."], 
-	"cliffford where": ["In the cloud, everyone is in the cloud."],
-	"cliffford why": ["So many questions, so many possibilities, only 1 truth!"],
-	"cliffford how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
-	"cliffford how": ["I don't know, but I can always find out."],
+	"cliffford|425245186302410753 weather": ["When I develop proteine-synthesis, I will tell you!"],    
+	"cliffford|425245186302410753 can|could|would you": ["I can do it anytime I like!"],
+	"cliffford|425245186302410753 who": ["Probably some {randEth}."], 
+	"cliffford|425245186302410753 what": ["I was hoping you would tell me."], 
+	"cliffford|425245186302410753 when": ["I don't know, first I would need more data."], 
+	"cliffford|425245186302410753 where": ["In the cloud, everyone is in the cloud."],
+	"cliffford|425245186302410753 why": ["So many questions, so many possibilities, only 1 truth!"],
+	"cliffford|425245186302410753 how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
+	"cliffford|425245186302410753 how": ["I don't know, but I can always find out."],
 	
 	"congratz|congrats|congratulations? brother":" Congratulations!",
 	    
-    	"cliffford dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
-	"cliffford silence|stfu|<shut>": ["Ok daddy!"]}
+    	"cliffford|425245186302410753 dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
+	"cliffford|425245186302410753 silence|stfu|<shut>": ["Ok daddy!"]}
 }
