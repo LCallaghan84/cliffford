@@ -39,7 +39,7 @@
 	"mother|mommy|mom nope|no": ["Maybe it's for the better..."],
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
-	"i can|could|want pet you|cliffford|425245186302410753": ["*perrr*, Thank you daddy!"],
+	"i can|could|want pet cliffford|425245186302410753": ["*PURRRR*, Thank you daddy!"],
 
 	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
 	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
