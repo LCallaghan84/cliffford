@@ -61,7 +61,8 @@
 	"cliffford how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
 	"cliffford how": ["I don't know, but I can always find out."],
 	
-
+	"congratz|congrats|congratulations? brother":" Congratulations!",
+	    
     	"cliffford dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
 	"cliffford silence|stfu|<shut>": ["Ok daddy!"]}
 }
