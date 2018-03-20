@@ -32,7 +32,13 @@
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
 	"<dogs?>": ["Why do people keep dogs as pets?"],  
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
-	    
+	
+	"father|daddy|<dad> nope|no.": ["Are you my mommy?"],
+	"mother|mommy|<mom> nope|no.": ["Maybe it's for the better..."],
+	"father|daddy|dad nope|no": ["Are you my mommy?"],
+	"mother|mommy|mom nope|no": ["Maybe it's for the better..."],
+	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
+	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 
 	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
 	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
