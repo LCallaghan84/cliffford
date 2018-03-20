@@ -39,9 +39,10 @@
 	"mother|mommy|mom nope|no": ["Maybe it's for the better..."],
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
+	"I can|could|want pet you|cliffford|425245186302410753": ["*perrr*, Thanks you daddy!"],
 
 	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
-	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
+	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see+ya|later|c+ya @everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
 	"afternoon @everyone": ["Good afternoon daddy!"],
