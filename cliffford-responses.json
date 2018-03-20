@@ -34,7 +34,7 @@
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
 	    
 
-	"<cliffford\\>|<cliffford\\>": ["Yes daddy?","Yes {user}?"],
+	"<cliffford->|<cliffford!>": ["Yes daddy?","Yes {user}?"],
 	"<hi>|<hey>|<hello>|<sup>|<whatsup> @everyone|cliffford": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
 	"bye|see$ya|later|c$ya @everyone|cliffford": ["Bye {user}!","Later {user}!","See ya {user}!"],
 	"morning @everyone": ["Good morning daddy!"],
