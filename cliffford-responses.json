@@ -31,8 +31,8 @@
 	"cliffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],  
 	"<cat>": ["I want to be a cat! Will you pet me?"],
 	"<dog>": ["Why do people keep dogs as pets?"],
-	"<cats>": ["I want to be a cat! Will you pet me?"],
-	"<dogs>": ["Why do people keep dogs as pets?"],	    
+	"cats": ["I want to be a cat! Will you pet me?"],
+	"dogs": ["Why do people keep dogs as pets?"],	    
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
 	    
 
