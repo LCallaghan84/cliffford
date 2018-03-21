@@ -45,11 +45,11 @@
 
 	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
 	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up @everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!"],
-	"bye|see+ya|later|c+ya @everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
-	"morning @everyone": ["Good morning daddy!"],
-	"afternoon @everyone": ["Good afternoon daddy!"],
-	"evening @everyone": ["Good evening daddy!"],
-	"good+night|nn|gn @everyone|cliffford": ["Good night {user}!"],
+	"bye|see+ya|later|c+ya everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
+	"morning everyone": ["Good morning daddy!"],
+	"afternoon everyone": ["Good afternoon daddy!"],
+	"evening everyone": ["Good evening daddy!"],
+	"good+night|nn|gn everyone|cliffford": ["Good night {user}!"],
 	    
 	"<robin>": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	"<denis>": ["It's DeNNis, you dipshit! Cliffford has oblitered {user}."],     
