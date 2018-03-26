@@ -24,8 +24,8 @@
         "{user} has left, it was just another typewriting monkey like Shakespeare."],
     "prospectJoined":
 	["Cliffford has detected a new prospect."],
-    "userBanned":
-	["{user} has been obliterated by the orbital cannon."],
+    "userPromoted":
+	["{user} has promoted {target} for their loyalty. Congratz brother!"],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
 	"cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],  
