@@ -26,6 +26,8 @@
 	["Cliffford has detected a new prospect."],
     "userPromoted":
 	["{user} has promoted {target} for their loyalty. Congratz brother!"],
+    "prospectKicked":
+	["{user} has destroyed {target}"],
     "containsReactions":{
         "clifford": ["the name's CliFFFord, loser!"],
 	"cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot? "],  
