@@ -31,7 +31,7 @@
     "containsReactions":{
         
 	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy> bitch|pussy|asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Fuck you too {user}!", "Eat me {user}!", "Peasant.", "Idiot.", "Retard.", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!","It will all be over soon {user}."],
-	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["I guess you learned to read|count at the age of {randProb} {user}?","Your IQ must be {randProb} {user}.","It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
+	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["I guess you learned to read at the age of {randProb} {user}?","Your IQ must be {randProb} {user}.","It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
 	
 	
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
