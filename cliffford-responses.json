@@ -30,8 +30,8 @@
 	["{user} has destroyed {target}"],
     "containsReactions":{
         
-	"<clif>|cliff asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw": ["Fuck you too {user}!","Eat me {user}!","Peasant.","So is your mom {user}!","So is your dad {user}","Idiot","Shut up {user}!","Would you like to be obliterated {user}?"],
-	"<clif>|cliford|clifford|cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?","the name's CliFFFord, loser!"], 
+	"cliffford asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw": ["Fuck you too {user}!","Eat me {user}!","Peasant.","So is your mom {user}!","So is your dad {user}","Idiot","Shut up {user}!","Would you like to be obliterated {user}?"],
+	"<clif>|cliford|clifford|cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?","the name's CliFFFord, loser!", "Shut up {user}!","Would you like to be obliterated {user}?"], 
 	
 	
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
@@ -40,7 +40,9 @@
 	
 	"<what> <hobbies> <cliffford>|425245186302410753":["I like searching for cat memes. What about you {user}?"],
 	    
-
+	"father|daddy|<dad> nope|no.": ["Are you my mommy?"],
+	"mother|mommy|<mom> nope|no.": ["Maybe it's for the better..."],
+	"father|daddy|dad nope|no": ["Are you my mommy?"],
 	"mother|mommy|mom nope|no": ["Maybe it's for the better..."],
 	"right|yes|yeah|yup|indeed|correct <mom>": ["I always wanted to have a mommy!"],
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
