@@ -30,7 +30,7 @@
 	["{user} has destroyed {target}"],
     "containsReactions":{
         
-	"cliffford asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw": ["Fuck you too {user}!","Eat me {user}!","Peasant.","So is your mom {user}!","So is your dad {user}","Idiot","Shut up {user}!","Would you like to be obliterated {user}?"],
+	"<clif>|cliford|clifford|cliffy|clifffy|cliffford asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw": ["Fuck you too {user}!","Eat me {user}!","Peasant.","So is your mom {user}!","So is your dad {user}","Idiot","Shut up {user}!","Would you like to be obliterated {user}?"],
 	"<clif>|cliford|clifford|cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?","the name's CliFFFord, loser!"], 
 	
 	
