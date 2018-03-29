@@ -30,8 +30,8 @@
 	["{user} has destroyed {target}"],
     "containsReactions":{
         
-	"clif bitch|pussy|asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Fuck you too {user}!", "Eat me {user}!", "Peasant.", "Idiot.", "Retard.", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!"],
-	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?","the name's CliFFFord, loser!", "Shut up {user}!","Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
+	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy> bitch|pussy|asshole|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Fuck you too {user}!", "Eat me {user}!", "Peasant.", "Idiot.", "Retard.", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!","It will all be over soon {user}."],
+	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
 	
 	
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
@@ -67,6 +67,7 @@
 	"cliffford|425245186302410753 where": ["In the cloud, everyone is in the cloud."],
 	"cliffford|425245186302410753 why": ["So many questions, so many possibilities, only 1 truth!"],
 	"cliffford|425245186302410753 how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
+	"cliffford|425245186302410753 how do know": ["I don't know, but I can always find out."],	
 	"cliffford|425245186302410753 how": ["I don't know, but I can always find out."],
 	
 	"congratz|congrats|congratulations? brother":" Congratulations!",
