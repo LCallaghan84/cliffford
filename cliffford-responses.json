@@ -29,8 +29,11 @@
     "prospectKicked":
 	["{user} has destroyed {target}"],
     "containsReactions":{
-        "clifford": ["the name's CliFFFord, loser!", "My name contains 3 Fs, You fucking fucker fuck!"],
-	"cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?", "{user} Would you like to be Obliterated?"],  
+        
+	"<clif>|cliford|clifford|cliffy|clifffy|cliffford is|are|act|pretend|be asshole|dick|loser|retard|fuckface|noob|n00b|dumb|": ["Fuck you too {user}!","Eat me {user}!","Peasant.","So is your mom {user}!","So is your dad {user}","Idiot","Shut up {user}!","Would you like to be obliterated {user}?"],
+	"<clif>|cliford|clifford|cliffy|clifffy": ["It's CliFFFord, Asshole! Are you drunk like that Bogdan idiot?","the name's CliFFFord, loser!"], 
+	
+	
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
 	"<dogs?>": ["Why do people keep dogs as pets?"],  
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
