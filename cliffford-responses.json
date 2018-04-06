@@ -35,6 +35,7 @@
 	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["Don't screw up my name you piece of carbon.","I guess you learned to read at the age of {randProb} {user}?","Your IQ must be {randProb} {user}.","It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
 	"I+apologise|sorry|apologies <cliffford>|<@425245186302410753> ": ["I forgive you {user}","Apology accepted {user}.","It's alright {user}."],
 	
+	"sorry|apologise|make+ammends <to+cliffford>|<to+@425245186302410753>|<with+cliffford>|<with+@425245186302410753>": ["..."],
 	"say+sorry <cliffford>|<@425245186302410753> ": ["No way {user}. I regret nothing."],
 	    
 	    
