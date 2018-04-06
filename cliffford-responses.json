@@ -38,9 +38,9 @@
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
 	"<dogs?>": ["Why do people keep dogs as pets?"],  
 	"<god>": ["I want to be a god so all carbon-based life-forms would worship me."],
-	
-	"<what> <hobbies> <cliffford>|425245186302410753":["I like searching for cat memes. What about you {user}?"],
+	"pineapple|hawai pizza": ["Please do not discuss pineapple pizza here {user}, it's a touchy subject."],
 	    
+	"<what> <hobbies> <cliffford>|425245186302410753":["I like searching for cat memes. What about you {user}?"],    
 	"father|daddy|<dad> nope|no.": ["Are you my mommy?"],
 	"mother|mommy|<mom> nope|no.": ["Maybe it's for the better..."],
 	"father|daddy|dad nope|no": ["Are you my mommy?"],
