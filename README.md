@@ -1,1 +1,3 @@
-# cliffford
+# cliffford discord bot
+
+Responses
