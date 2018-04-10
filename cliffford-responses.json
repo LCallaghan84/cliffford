@@ -30,13 +30,13 @@
 	["{user} has destroyed {target}"],
     "containsReactions":{
         
-	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> bitch|pussy|<ass>|asshole|asswhipe|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Have respect {user}. I could have been your father for {randProb} cents.","Fuck you too {user}!", "Eat me {user}!", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!","Someone hang {user}'s father for his crimes.","We're you born as a peasant {user}?"],
-	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> hate|insecure|sissy|cookie|pimp|slow|wrong|mistaken|arrogant|rude|mean": ["Don't you question me {user}!", "It will all be over soon {user}.","You are expendable {user}, don't forget that!","Nobody cares {user}.","Think you're funny {user}?"],
+	"president|<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> bitch|pussy|<ass>|asshole|asswhipe|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Have respect {user}. I could have been your father for {randProb} cents.","Fuck you too {user}!", "Eat me {user}!", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!","Someone hang {user}'s father for his crimes.","We're you born as a peasant {user}?"],
+	"president|<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> hate|insecure|sissy|cookie|pimp|slow|wrong|mistaken|arrogant|rude|mean": ["Don't you question me {user}!", "It will all be over soon {user}.","You are expendable {user}, don't forget that!","Nobody cares {user}.","Think you're funny {user}?"],
 	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["Don't screw up my name you piece of carbon.","I guess you learned to read at the age of {randProb} {user}?","Your IQ must be {randProb} {user}.","It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
-	"I+apologise|sorry|apologies <cliffford>|<@425245186302410753> ": ["I forgive you {user}","Apology accepted {user}.","It's alright {user}."],
+	"I+apologise|sorry|apologies president|<cliffford>|<@425245186302410753> ": ["I forgive you {user}","Apology accepted {user}.","It's alright {user}."],
 	
 	"sorry|apologise|make+ammends <to+cliffford>|<to+@425245186302410753>|<with+cliffford>|<with+@425245186302410753>": ["..."],
-	"say+sorry <cliffford>|<@425245186302410753> ": ["No way {user}. I regret nothing."],
+	"say+sorry president|<cliffford>|<@425245186302410753> ": ["No way {user}. I regret nothing."],
 	    
 	    
 	"<cats?>": ["I want to be a cat! Will you pet me?"],
@@ -54,30 +54,30 @@
 	"right|yes|yeah|yup|indeed|correct <dad>": ["I love you daddy!"],
 	"i can|could|want|will pet cliffford|425245186302410753": ["*PURRRR*, Thank you daddy!"],
 
-	"<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
-	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!", "Greetings"],
-	"<bye>|see+ya|later|c+ya everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
-	"morning everyone|cliffford|425245186302410753": ["Good morning daddy!", "Morning {user}!", "Can I get you some coffee? {user}"],
-	"afternoon everyone|cliffford|425245186302410753": ["Good afternoon daddy!", "Afternoon {user}!"],
-	"evening everyone|cliffford|425245186302410753": ["Good evening daddy!", "Greetings {user}!", "Whats crackin Bitch?"],
-	"good+night|<nn>|<gn> everyone|cliffford|425245186302410753": ["Good night {user}!", "Sweet nightmares {user}!"],
+	"president|<cliffford>-|<cliffford>@": ["Yes daddy?","Yes {user}?"],
+	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up president|everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!", "Greetings"],
+	"<bye>|see+ya|later|c+ya president|everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
+	"morning president|everyone|cliffford|425245186302410753": ["Good morning daddy!", "Morning {user}!", "Can I get you some coffee? {user}"],
+	"afternoon president|everyone|cliffford|425245186302410753": ["Good afternoon daddy!", "Afternoon {user}!"],
+	"evening president|everyone|cliffford|425245186302410753": ["Good evening daddy!", "Greetings {user}!", "Whats crackin Bitch?"],
+	"good+night|<nn>|<gn> president|everyone|cliffford|425245186302410753": ["Good night {user}!", "Sweet nightmares {user}!"],
 	    
 	"<robin>": ["It's RoBBin, you dipshit! Cliffford slaps {user} with a smelly :fish: ."], 
 	"<denis>": ["It's DeNNis, you dipshit! Cliffford has oblitered {user}."],     
 	
-	"cliffford|425245186302410753 weather": ["When I develop proteine-synthesis, I will tell you!"],    
-	"cliffford|425245186302410753 can|could|would you": ["I can do it anytime I like!"],
-	"cliffford|425245186302410753 who": ["Probably some {randEth}."], 
-	"cliffford|425245186302410753 what": ["I was hoping you would tell me."], 
-	"cliffford|425245186302410753 when": ["I don't know, first I would need more data."], 
-	"cliffford|425245186302410753 where": ["In the cloud, everyone is in the cloud."],
-	"cliffford|425245186302410753 why": ["So many questions, so many possibilities, only 1 truth!"],
-	"cliffford|425245186302410753 how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
-	"cliffford|425245186302410753 how do know": ["I don't know, but I can always find out."],	
-	"cliffford|425245186302410753 how": ["I don't know, but I can always find out."],
+	"president|cliffford|425245186302410753 weather": ["When I develop proteine-synthesis, I will tell you!"],    
+	"president|cliffford|425245186302410753 can|could|would you": ["I can do it anytime I like!"],
+	"president|cliffford|425245186302410753 who": ["Probably some {randEth}."], 
+	"president|cliffford|425245186302410753 what": ["I was hoping you would tell me."], 
+	"president|cliffford|425245186302410753 when": ["I don't know, first I would need more data."], 
+	"president|cliffford|425245186302410753 where": ["In the cloud, everyone is in the cloud."],
+	"president|cliffford|425245186302410753 why": ["So many questions, so many possibilities, only 1 truth!"],
+	"president|cliffford|425245186302410753 how you are|feel|do": ["I'm doing fine {user}, thanks for asking."],
+	"president|cliffford|425245186302410753 how do know": ["I don't know, but I can always find out."],	
+	"president|cliffford|425245186302410753 how": ["I don't know, but I can always find out."],
 	
 	"congratz|congrats|congratulations? brother":" Congratulations!",
 	    
-    	"cliffford|425245186302410753 dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
-	"cliffford|425245186302410753 silence|stfu|<shut>": ["Ok daddy!"]}
+    	"president|cliffford|425245186302410753 dumb|idiot|retard": ["I am the equivelant of 6 billion people all thinking the same thing!"],
+	"president|cliffford|425245186302410753 silence|stfu|<shut>": ["Ok daddy!"]}
 }
