@@ -30,7 +30,7 @@
 	["{user} has destroyed {target}"],
     "containsReactions":{
         "spiegeltje wand mooiste land" : ["@FiddleMyNizzle"],
-	"#cliffford" : null,
+	"#cliffford" : [null],
 	"president|<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> bitch|pussy|<ass>|asshole|asswhipe|dick|loser|retard|fuck|noob|n00b|dumb|fuck|screw|suck|eat+me": ["Have respect {user}. I could have been your father for {randProb} cents.","Fuck you too {user}!", "Eat me {user}!", "You should have been aborted {user}.", "Shut up {user}!", "Would you like to be obliterated {user}?", "Eat my digital asshole {user}!","Someone hang {user}'s father for his crimes.","We're you born as a peasant {user}?"],
 	"president|<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>|<cliffford> hate|insecure|sissy|cookie|pimp|slow|wrong|mistaken|arrogant|rude|mean": ["Don't you question me {user}!", "It will all be over soon {user}.","You are expendable {user}, don't forget that!","Nobody cares {user}.","Think you're funny {user}?"],
 	"<clif>|<cliford>|<clifford>|<cliffy>|<clifffy>": ["Don't screw up my name you piece of carbon.","I guess you learned to read at the age of {randProb} {user}?","Your IQ must be {randProb} {user}.","It's CliFFFord you drunk {randEth}!","the name's CliFFFord, loser!", "Would you like to be obliterated {user}?","Typewriting monkey too dumb to spell {user}?","Never went to school {user}?","Which are you {user}, dumb or lazy?"], 
