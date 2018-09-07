@@ -57,7 +57,7 @@
 
 	"<hi>|<hey>|<hello>|<sup>|<whatsup>|whats+up president|everyone|cliffford|425245186302410753": ["Hello {user}!","Hi {user}!","Whatsup {user}!", "Greetings"],
 	"<bye>|see+ya|later|c+ya president|everyone|cliffford|425245186302410753": ["Bye {user}!","Later {user}!","See ya {user}!"],
-	"morning president|everyone|cliffford|425245186302410753": ["Good morning daddy!", "Morning {user}!", "Can I get you some coffee? {user}"],
+	"morning president|everyone|cliffford|425245186302410753": ["Good morning daddy!", "Morning {user}!", "Can I get you some :coffee: with some :doughnut: or :pancakes:? {user}"],
 	"afternoon president|everyone|cliffford|425245186302410753": ["Good afternoon daddy!", "Afternoon {user}!"],
 	"evening president|everyone|cliffford|425245186302410753": ["Good evening daddy!", "Greetings {user}!", "Whats crackin Bitch?"],
 	"good+night|<nn>|<gn> president|everyone|cliffford|425245186302410753": ["Good night {user}!", "Sweet nightmares {user}!"],
